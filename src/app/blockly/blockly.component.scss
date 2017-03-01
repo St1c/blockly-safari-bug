@@ -1,0 +1,16 @@
+.content {
+  height: 600px;
+  width: 100%;
+  visibility: hidden;
+}
+
+#content-xml {
+    resize: none;
+    outline: 0;
+    border: 1px solid #ccc;
+    font-family: monospace;
+    overflow: scroll;
+}
+
+
+

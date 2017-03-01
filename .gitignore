@@ -1,0 +1,11 @@
+/node_modules/
+/dist/
+.editorconfig
+tslint.json
+bs-config.json
+/lib/blockly/media
+
+/lib/blockly/msg/js/*
+!/lib/blockly/msg/js/en.js
+/lib/blockly/msg/json/*
+
